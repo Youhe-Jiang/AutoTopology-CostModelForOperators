@@ -88,7 +88,9 @@ If not ideal, an overlap factor δ is required:
 
 cost=(α,β)+γ-δ
 
-## Part of the testing result
+## Result
+
+We only show part of the results.
 
 ### For ring topology:
 
@@ -108,5 +110,5 @@ y-axis: number of process.
 
 <img width="1080" alt="图片" src="https://user-images.githubusercontent.com/85312798/121158261-ce71da80-c87c-11eb-8223-c7ac0f2a4093.png">
 
-While each algorithm has its corresponding optimal deployment scenario, which makes AutoTopology necessary.
+While each synchronization algorithm has its corresponding optimal deployment scenario, which makes AutoTopology necessary.
 
