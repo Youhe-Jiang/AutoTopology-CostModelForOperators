@@ -88,7 +88,7 @@ If not ideal, an overlap factor δ is required:
 
 cost=(α,β)+γ-δ
 
-## Result
+## Results
 
 We only show part of the results.
 
