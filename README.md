@@ -30,7 +30,7 @@ The operator complexity of different topological structures.
 
 The overlap of communication and computation.
 
-## Process
+## Procedure
 
 The experimental process is shown in the figure below.
 
@@ -38,7 +38,7 @@ The experimental process is shown in the figure below.
 
 ## Cost Model
 
-### Our modeling of the operator is shown in the table. 
+### Our modeling of operators is shown in the table. 
 
 α: latency 
 
