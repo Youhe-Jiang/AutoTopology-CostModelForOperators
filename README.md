@@ -91,14 +91,14 @@ x-axis: cost.
 
 y-axis: number of process.
 
-<img width="360" alt="图片" src="https://user-images.githubusercontent.com/85312798/121157331-0b899d00-c87c-11eb-9980-776a1c43531e.png">
+<img width="1080" alt="图片" src="https://user-images.githubusercontent.com/85312798/121158502-ff520f80-c87c-11eb-98b0-4d302331f6ce.png">
 
 Latency dominate case:
 
-<img width="360" alt="图片" src="https://user-images.githubusercontent.com/85312798/121157411-1e9c6d00-c87c-11eb-9ebb-13f8b62d1433.png">
+<img width="1081" alt="图片" src="https://user-images.githubusercontent.com/85312798/121158395-ec3f3f80-c87c-11eb-952e-640bdc50b1a1.png">
 
 Bandwidth dominate case:
 
-<img width="360" alt="图片" src="https://user-images.githubusercontent.com/85312798/121157565-42f84980-c87c-11eb-800c-3c8759ea6a5e.png">
+<img width="1080" alt="图片" src="https://user-images.githubusercontent.com/85312798/121158261-ce71da80-c87c-11eb-8223-c7ac0f2a4093.png">
 
 
