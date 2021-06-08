@@ -71,7 +71,7 @@ For tree topology:
 
 And in our model, communication and computation overlap has also been considered.
 
-If the overlapping of communication and calculation is considered, the optimal situation is that the communication time is less than the calculation time (completely overlapping), then the cost model of each formula can be rewrite as:
+If the overlapping of communication and computation is considered, the optimal situation is that the communication time is less than the computation time (completely overlapping), then the cost model of each formula can be rewrite as:
 
 cost=max((α,β),γ)
 
