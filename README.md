@@ -81,4 +81,24 @@ If not ideal, an overlap factor δ is required:
 
 cost=(α,β)+γ-δ
 
+Part of the testing result:
+
+For ring topology:
+
+Normal case:
+
+x-axis: cost.
+
+y-axis: number of process.
+
+<img width="360" alt="图片" src="https://user-images.githubusercontent.com/85312798/121157331-0b899d00-c87c-11eb-9980-776a1c43531e.png">
+
+Latency dominate case:
+
+<img width="360" alt="图片" src="https://user-images.githubusercontent.com/85312798/121157411-1e9c6d00-c87c-11eb-9ebb-13f8b62d1433.png">
+
+Bandwidth dominate case:
+
+<img width="360" alt="图片" src="https://user-images.githubusercontent.com/85312798/121157565-42f84980-c87c-11eb-800c-3c8759ea6a5e.png">
+
 
