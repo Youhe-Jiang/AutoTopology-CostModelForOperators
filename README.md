@@ -49,14 +49,13 @@ s: split data into s messages)
 
 Different frameworks support different operators, as shown in the table.
 
-i: intra group -> bandwidth β
-
-o: inter group -> bandwidth β'
-
-
 <img width="1054" alt="图片" src="https://user-images.githubusercontent.com/85312798/121154587-a7fe7000-c879-11eb-92f0-7a83dc809e4b.png">
 
 The types of operators that constitute different synchronization algorithms are different, as shown in the table. 
+
+i: intra group -> bandwidth β
+
+o: inter group -> bandwidth β'
 
 For ring topology:
 
