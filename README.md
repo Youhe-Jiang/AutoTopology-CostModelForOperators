@@ -32,9 +32,11 @@ The overlap of communication and computation.
 
 ## Procedure
 
-The experimental process is shown in the figure below.
+The experimental process is shown in the figures below.
 
-<img width="829" alt="图片" src="https://user-images.githubusercontent.com/85312798/121153832-fcedb680-c878-11eb-9cdc-f6e32012f5f3.png">
+<img width="472" alt="图片" src="https://user-images.githubusercontent.com/85312798/121301961-878eee00-c92b-11eb-8b22-a15f5a25367a.png">
+
+<img width="472" alt="图片" src="https://user-images.githubusercontent.com/85312798/121301908-73e38780-c92b-11eb-842b-2f9b82f3e12b.png">
 
 ## Cost Model
 
@@ -111,4 +113,5 @@ y-axis: number of process.
 <img width="1080" alt="图片" src="https://user-images.githubusercontent.com/85312798/121158261-ce71da80-c87c-11eb-8223-c7ac0f2a4093.png">
 
 While each synchronization algorithm has its corresponding optimal deployment scenario, which makes AutoTopology necessary.
+
 
